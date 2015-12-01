@@ -1,0 +1,2 @@
+# elasticmq
+elasticmq docker instance
